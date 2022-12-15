@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abel
+- 👋 Hi, I’m Abel Mathew Simon
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Cse
 - 💞️ I’m looking to collaborate on 
